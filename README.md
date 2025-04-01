@@ -57,4 +57,5 @@ Improve UI/UX with animations and dark mode.
 API Key Requirement
 
 This project requires an API key from News API. Replace the placeholder key in script.js with your own API key:
+
 const API_KEY = "YOUR_API_KEY_HERE";
